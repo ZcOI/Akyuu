@@ -1,0 +1,12 @@
+git add .
+git commit -m "备注信息"
+git push -u origin master
+git add .
+git commit -m "备注信息"
+git push -u origin master
+git add .
+git commit -m "备注信息"
+git push -u origin master
+git add .
+git commit -m "备注信息"
+git push -u origin master
