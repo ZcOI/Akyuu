@@ -1,0 +1,28 @@
+git add .
+git commit -m "备注信息"
+git push -u origin master
+git add .
+git commit -m "备注信息"
+git push -u origin master
+git add .
+git commit -m "备注信息"
+git push -u origin master
+git add .
+git commit -m "备注信息"
+git push -u origin master
+
+
+
+
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+
+  --color-pink: #ed6ea0;
+  --color-orange: #ec8c69;
+  --color-purple: #9d5b8b;
